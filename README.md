@@ -5,7 +5,6 @@ The data cleaning process addressed issues such as missing values, duplicate ent
 
 To make the findings accessible and actionable, I designed an interactive dashboard using data visualization tools. The dashboard presents key insights in a user-friendly format, so that it is easy to navigate and comprehend the trends within the Netflix dataset. Users can explore the most popular genres, observe trends in viewer ratings, and gain valuable insights into the evolving landscape of Netflix content.
 
-# ScreenShots
+# Dashboard Screenshot
 
-Starting Page
-![Web_ss_1](https://user-images.githubusercontent.com/84012033/173548775-39851f6b-ab76-4086-ada7-daa344b81f96.png)
+![Netflix_analysis_dashboard](https://github.com/Mihir8301/Analysis-of-Netflix-Dataset/assets/84012033/74564b66-e578-4c02-becf-73591bef0c6c)
