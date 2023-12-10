@@ -4,3 +4,8 @@ In this data analysis project, I delved into a comprehensive Netflix dataset enc
 The data cleaning process addressed issues such as missing values, duplicate entries, and inconsistent data formats. Upon cleaning the data, I employed various statistical and visual analysis techniques to uncover compelling trends. The analysis also explored correlations between factors like runtime, viewer ratings, and the frequency of content releases over time.
 
 To make the findings accessible and actionable, I designed an interactive dashboard using data visualization tools. The dashboard presents key insights in a user-friendly format, so that it is easy to navigate and comprehend the trends within the Netflix dataset. Users can explore the most popular genres, observe trends in viewer ratings, and gain valuable insights into the evolving landscape of Netflix content.
+
+# ScreenShots
+
+Starting Page
+![Web_ss_1](https://user-images.githubusercontent.com/84012033/173548775-39851f6b-ab76-4086-ada7-daa344b81f96.png)
